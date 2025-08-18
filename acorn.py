@@ -1,35 +1,25 @@
-import os
 import sys
+import acornapi
+import json
 
-import requests
-
-def get_info(course_code, section):
+def get_info(utorid, password, course_code, section):
     sess_code = {'F': '20259', 'S': '20261'}[section]
-    cookies = {
-	'LtpaToken2': os.getenv('LtpaToken2')
-    }
 
-    params = {
-        'courseCode': course_code,
-        'courseSessionCode': sess_code,
-        'postCode': 'CS   MSC T',
-        'primaryOrgCode': 'SGS',
-        'sectionCode': section,
-        'sessionCode': sess_code,
-    }
-    
-    response = requests.get(
-        'https://acorn.utoronto.ca/sws/rest/enrolment/course/view',
-        params=params,
-        cookies=cookies,
-    )
-
-    return response
+    with acornapi.ACORNWithCachedAuth(utorid, password) as acorn:
+        return acorn.course_registration_info(
+            course_code,
+            section,
+            sess_code,
+            registration_params={
+                "postCode": "CS   MSC T",
+                "primaryOrgCode": "SGS",
+            }
+        )
 
 
-def main(course_code, section):
-    resp = get_info(course_code, section)
-    print(resp.text)
+def main(utorid, password, course_code, section):
+    resp = get_info(utorid, password, course_code, section)
+    print(json.dumps(resp))
 
 
 if __name__ == "__main__":

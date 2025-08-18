@@ -36,8 +36,8 @@
     "title": "Topics in Programming Languages: Advanced Functional Programming",
     "totalSpace": 20,
     "enrollSpace": 20,
-    "enrollmentSpaceAvailable": 10,
-    "percentFull": 50
+    "enrollmentSpaceAvailable": 11,
+    "percentFull": 45
   },
   {
     "course": "CSC2209H F",
@@ -180,8 +180,8 @@
     "title": "Computational Imaging",
     "totalSpace": 100,
     "enrollSpace": 100,
-    "enrollmentSpaceAvailable": 42,
-    "percentFull": 57.99999999999999
+    "enrollmentSpaceAvailable": 43,
+    "percentFull": 56.99999999999999
   },
   {
     "course": "CSC2537H F",
@@ -212,8 +212,8 @@
     "title": "Topics in Computational Social Science: LLMs and Society",
     "totalSpace": 30,
     "enrollSpace": 30,
-    "enrollmentSpaceAvailable": 2,
-    "percentFull": 93.33333333333333
+    "enrollmentSpaceAvailable": 1,
+    "percentFull": 96.66666666666667
   },
   {
     "course": "CSC2600H F",
@@ -268,8 +268,8 @@
     "title": "Visual and Mobile Computing Systems",
     "totalSpace": 75,
     "enrollSpace": 75,
-    "enrollmentSpaceAvailable": 30,
-    "percentFull": 60
+    "enrollmentSpaceAvailable": 29,
+    "percentFull": 61.33333333333333
   },
   {
     "course": "CSC2222H S",
@@ -300,8 +300,8 @@
     "title": "High Performance Scientific Computing",
     "totalSpace": 20,
     "enrollSpace": 20,
-    "enrollmentSpaceAvailable": 2,
-    "percentFull": 90
+    "enrollmentSpaceAvailable": 1,
+    "percentFull": 95
   },
   {
     "course": "CSC2410H S",

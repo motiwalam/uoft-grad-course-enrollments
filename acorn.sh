@@ -1,6 +1,6 @@
 #!/bin/sh
 
-LtpaToken2=$(xclip -sel clip -o) python3 acorn.py $@ | jq "$(cat <<JQPROG
+python3 acorn.py $@ | jq "$(cat <<JQPROG
     .responseObject
     | {course: .displayName, 
        title: .title + ": " + .meetings.[0].subTitle}
