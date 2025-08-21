@@ -12,8 +12,8 @@
     "title": "Formal Methods of Program Design",
     "totalSpace": 5,
     "enrollSpace": 5,
-    "enrollmentSpaceAvailable": 1,
-    "percentFull": 80
+    "enrollmentSpaceAvailable": 0,
+    "percentFull": 100
   },
   {
     "course": "CSC2108H F",
@@ -28,48 +28,48 @@
     "title": "Topics in Software Engineering: Blockchain Technology & Engineering",
     "totalSpace": 30,
     "enrollSpace": 30,
-    "enrollmentSpaceAvailable": 20,
-    "percentFull": 33.33333333333333
+    "enrollmentSpaceAvailable": 14,
+    "percentFull": 53.333333333333336
   },
   {
     "course": "CSC2126H F",
     "title": "Topics in Programming Languages: Advanced Functional Programming",
     "totalSpace": 20,
     "enrollSpace": 20,
-    "enrollmentSpaceAvailable": 11,
-    "percentFull": 45
+    "enrollmentSpaceAvailable": 10,
+    "percentFull": 50
   },
   {
     "course": "CSC2209H F",
     "title": "Computer Networks",
     "totalSpace": 20,
     "enrollSpace": 20,
-    "enrollmentSpaceAvailable": 11,
-    "percentFull": 45
+    "enrollmentSpaceAvailable": 9,
+    "percentFull": 55.00000000000001
   },
   {
     "course": "CSC2221H F",
     "title": "Introduction to the Theory of Distributed Computing",
     "totalSpace": 20,
     "enrollSpace": 20,
-    "enrollmentSpaceAvailable": 8,
-    "percentFull": 60
+    "enrollmentSpaceAvailable": 6,
+    "percentFull": 70
   },
   {
     "course": "CSC2233H F",
     "title": "Topics in Storage Systems: Machine Learning to Build Better Systems",
     "totalSpace": 20,
     "enrollSpace": 20,
-    "enrollmentSpaceAvailable": 6,
-    "percentFull": 70
+    "enrollmentSpaceAvailable": 1,
+    "percentFull": 95
   },
   {
     "course": "CSC2234H F",
     "title": "Database System Technology",
     "totalSpace": 15,
     "enrollSpace": 15,
-    "enrollmentSpaceAvailable": 7,
-    "percentFull": 53.333333333333336
+    "enrollmentSpaceAvailable": 3,
+    "percentFull": 80
   },
   {
     "course": "CSC2235H F",
@@ -83,33 +83,33 @@
     "course": "CSC2332H F",
     "title": "Introduction to Quantum Algorithms",
     "totalSpace": 50,
-    "enrollSpace": 45,
-    "enrollmentSpaceAvailable": 31,
-    "percentFull": 31.11111111111111
+    "enrollSpace": 50,
+    "enrollmentSpaceAvailable": 30,
+    "percentFull": 40
   },
   {
     "course": "CSC2414H F",
     "title": "Advanced Topics in Complexity Theory: Algorithmic Approaches to Lower Bounds",
     "totalSpace": 30,
     "enrollSpace": 30,
-    "enrollmentSpaceAvailable": 17,
-    "percentFull": 43.333333333333336
+    "enrollmentSpaceAvailable": 16,
+    "percentFull": 46.666666666666664
   },
   {
     "course": "CSC2419H F",
     "title": "Topics in Cryptography: Lattice-based Cryptography",
     "totalSpace": 35,
     "enrollSpace": 35,
-    "enrollmentSpaceAvailable": 25,
-    "percentFull": 28.57142857142857
+    "enrollmentSpaceAvailable": 23,
+    "percentFull": 34.285714285714285
   },
   {
     "course": "CSC2421H F",
     "title": "Topics in Algorithms: Online and Other Myopic Algorithms",
     "totalSpace": 20,
     "enrollSpace": 20,
-    "enrollmentSpaceAvailable": 10,
-    "percentFull": 50
+    "enrollmentSpaceAvailable": 6,
+    "percentFull": 70
   },
   {
     "course": "CSC2501H F",
@@ -140,8 +140,8 @@
     "title": "Advanced Data Systems: Vector Database Systems and Semistructured Data Management",
     "totalSpace": 20,
     "enrollSpace": 20,
-    "enrollmentSpaceAvailable": 2,
-    "percentFull": 90
+    "enrollmentSpaceAvailable": 1,
+    "percentFull": 95
   },
   {
     "course": "CSC2516H F",
@@ -156,8 +156,8 @@
     "title": "Discrete Mathematical Models of Sentence Structure",
     "totalSpace": 19,
     "enrollSpace": 19,
-    "enrollmentSpaceAvailable": 8,
-    "percentFull": 57.89473684210527
+    "enrollmentSpaceAvailable": 5,
+    "percentFull": 73.68421052631578
   },
   {
     "course": "CSC2521H F",
@@ -172,24 +172,24 @@
     "title": "The Business of Software",
     "totalSpace": 30,
     "enrollSpace": 30,
-    "enrollmentSpaceAvailable": 20,
-    "percentFull": 33.33333333333333
+    "enrollmentSpaceAvailable": 21,
+    "percentFull": 30
   },
   {
     "course": "CSC2529H F",
     "title": "Computational Imaging",
     "totalSpace": 100,
     "enrollSpace": 100,
-    "enrollmentSpaceAvailable": 44,
-    "percentFull": 56.00000000000001
+    "enrollmentSpaceAvailable": 36,
+    "percentFull": 64
   },
   {
     "course": "CSC2537H F",
     "title": "Information Visualization",
     "totalSpace": 20,
     "enrollSpace": 20,
-    "enrollmentSpaceAvailable": 4,
-    "percentFull": 80
+    "enrollmentSpaceAvailable": 0,
+    "percentFull": 100
   },
   {
     "course": "CSC2539H F",
@@ -203,7 +203,7 @@
     "course": "CSC2541H F",
     "title": "Topics in Machine Learning: Introduction to Causality",
     "totalSpace": 36,
-    "enrollSpace": 26,
+    "enrollSpace": 36,
     "enrollmentSpaceAvailable": 0,
     "percentFull": 100
   },
@@ -212,24 +212,24 @@
     "title": "Topics in Computational Social Science: LLMs and Society",
     "totalSpace": 30,
     "enrollSpace": 30,
-    "enrollmentSpaceAvailable": 2,
-    "percentFull": 93.33333333333333
+    "enrollmentSpaceAvailable": 0,
+    "percentFull": 100
   },
   {
     "course": "CSC2600H F",
     "title": "Topics in Computer Science: Algorithmic Social Systems",
     "totalSpace": 20,
     "enrollSpace": 20,
-    "enrollmentSpaceAvailable": 5,
-    "percentFull": 75
+    "enrollmentSpaceAvailable": 3,
+    "percentFull": 85
   },
   {
     "course": "CSC2604H F",
     "title": "Topics in Human-Centred and Interdisciplinary Computing: Intellectual Property",
     "totalSpace": 10,
     "enrollSpace": 10,
-    "enrollmentSpaceAvailable": 3,
-    "percentFull": 70
+    "enrollmentSpaceAvailable": 1,
+    "percentFull": 90
   },
   {
     "course": "CSC2615H F",
@@ -244,16 +244,16 @@
     "title": "Mobile and Digital Health",
     "totalSpace": 16,
     "enrollSpace": 16,
-    "enrollmentSpaceAvailable": 4,
-    "percentFull": 75
+    "enrollmentSpaceAvailable": 3,
+    "percentFull": 81.25
   },
   {
     "course": "CSC2107H S",
     "title": "Compilers and Interpreters",
     "totalSpace": 25,
     "enrollSpace": 25,
-    "enrollmentSpaceAvailable": 15,
-    "percentFull": 40
+    "enrollmentSpaceAvailable": 16,
+    "percentFull": 36
   },
   {
     "course": "CSC2125H S",
@@ -276,16 +276,16 @@
     "title": "Applications of Parallel and Distributed Computing",
     "totalSpace": 30,
     "enrollSpace": 30,
-    "enrollmentSpaceAvailable": 3,
-    "percentFull": 90
+    "enrollmentSpaceAvailable": 4,
+    "percentFull": 86.66666666666667
   },
   {
     "course": "CSC2229H S",
     "title": "Topics in Computer Networks: Computer Networks for Machine Learning",
     "totalSpace": 24,
     "enrollSpace": 24,
-    "enrollmentSpaceAvailable": 10,
-    "percentFull": 58.333333333333336
+    "enrollmentSpaceAvailable": 9,
+    "percentFull": 62.5
   },
   {
     "course": "CSC2231H S",
@@ -308,8 +308,8 @@
     "title": "Introduction to Graph Theory",
     "totalSpace": 30,
     "enrollSpace": 30,
-    "enrollmentSpaceAvailable": 18,
-    "percentFull": 40
+    "enrollmentSpaceAvailable": 17,
+    "percentFull": 43.333333333333336
   },
   {
     "course": "CSC2412H S",
@@ -332,8 +332,8 @@
     "title": "Topics in the Theory of Computation: Algebraic Complexity",
     "totalSpace": 25,
     "enrollSpace": 25,
-    "enrollmentSpaceAvailable": 17,
-    "percentFull": 32
+    "enrollmentSpaceAvailable": 16,
+    "percentFull": 36
   },
   {
     "course": "CSC2511H S",
